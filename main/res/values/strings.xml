@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FileCabinet</string>
+    <string name="vh_first_name">First name</string>
+    <string name="vh_second_name">Second name</string>
+    <string name="vh_specialization">Specialization</string>
+    <string name="fc_add">Add</string>
+    <string name="file_first_name">First name</string>
+    <string name="file_second_name">Second name</string>
+    <string name="vh_gender">Gender</string>
+    <string name="vh_age">Age</string>
+    <string name="file_save">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
